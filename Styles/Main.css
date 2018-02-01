@@ -1,0 +1,94 @@
+body {
+	background-image: url(../Images/SC3.jpg);
+	background-repeat: no-repeat cover cover fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#Logo {
+	text-align: center;
+	size: 50px;
+}
+
+h1 {
+	font-size: 5vw;
+	text-align: center;
+	font-family: 'Spectral SC', serif;
+}
+#Names h2 {
+	position: relative;
+	top: 600px;
+	text-align: center;
+	font-size: 3vw;
+}
+#Right img {
+	display: inline-block;
+	width: 280px;
+	border: 1px solid #ccc;
+	height: 280px;
+	position: relative;
+	left: 900px;
+	top: -1700px;
+} 
+#Left img {
+	display: inline-block;
+	width: 280px;
+	border: 1px solid #ccc;
+	height: 280px;
+	position: relative;
+	top: -4000px;
+	left: 100px;
+} 
+#Symbol {
+	text-align: center;
+	position: relative;
+	top: 250px;
+	transform: rotate(90deg);
+}
+#SoC {
+	display: none;
+}
+#SC2 img {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	position: relative;
+	top: -3500px;
+	z-index: 2;
+}
+#SC4 img {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	position: relative;
+	top: -3500px;
+	z-index: 2;
+}
+#SC1 img {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	position: relative;
+	top: -3500px;
+	z-index: 2;
+}
+#SC5 img {
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	position: relative;
+	top: -3500px;
+	z-index: 2;
+}
+
+
+
+
+
+
+
+
+
+
